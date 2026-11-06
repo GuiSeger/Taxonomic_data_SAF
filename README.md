@@ -26,4 +26,4 @@ https://www.scielo.br/j/abb/a/c6vDQBxYbZCjzkhycT4T6Qy/?format=html&lang=en
 
 How citate: 
 
-Machado, D. da S., Gonzatti, F., Duarte, L., & Seger, G. D. dos S. (2026). The central role of soil in shaping terrestrial ferns' assemblage composition, but not taxonomic diversity, in subtropical Atlantic forests (Version V1) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.23047011
+Machado, D. da S., Gonzatti, F., Duarte, L., & Seger, G. D. dos S. (2026). The central role of soil in shaping terrestrial ferns' assemblage composition, but not taxonomic diversity, in subtropical Atlantic forests [Dataset]. In Acta Botanica Brasilica (Version V1, Vol. 39, p. e20250108). Zenodo. https://doi.org/10.5281/zenodo.23047011
